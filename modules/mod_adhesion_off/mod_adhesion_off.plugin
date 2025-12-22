@@ -1,0 +1,11 @@
+[Core]
+Name = Mod Adhesion Off
+Module = mod_adhesion_off
+
+[Documentation]
+Author = Matías Alonso Fierro Rivas // LES // TUM 
+Version = 1.0.0
+Website = https://www.epe.ed.tum.de/es/mitarbeiterinnen/aktuelle-mitarbeiterinnen/wiss-mitarbeiterinnen/fierro/
+Description = Enables changing the stiffness fraction
+	of the linear adhesive force model in a	specific
+	location, based on the particle’s Z-coordinate.

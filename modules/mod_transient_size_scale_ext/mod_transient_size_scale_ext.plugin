@@ -1,0 +1,14 @@
+[Core]
+Name = Mod Transient Size Scale Ext
+Module = mod_transient_size_scale_ext
+
+[Documentation]
+Author = Matías Alonso Fierro Rivas // LES // TUM 
+Version = 1.0.0
+Website = https://www.epe.ed.tum.de/es/mitarbeiterinnen/aktuelle-mitarbeiterinnen/wiss-mitarbeiterinnen/fierro/
+Description = Allows modification of particle volume and mass
+	in specific spatial zones, based on the particle’s
+	Z-coordinate. Three distinct volume reduction functions
+	are applied across four different locations. Particles
+	can only decrease their volume and mass, for instance
+	when moving backward.
