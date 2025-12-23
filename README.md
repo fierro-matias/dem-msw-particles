@@ -1,8 +1,8 @@
 # dem-msw-particles
 
-Calibration datasets for spatially varying particle and model properties, together with custom user-defined modules for DEM simulations based on Ansys Rocky 2024 R1.
+This repository supports modeling and calibration of municipal solid waste (MSW) particles for Discrete Element Method (DEM) simulations, with focus on particles properties and model parameters.
 
-This repository supports modeling and calibration of municipal solid waste (MSW) particles in industrial DEM applications, with a focus on spatially dependent material behavior and parameter mapping.
+Calibration datasets for varying particle and model properties, together with custom user-defined modules for DEM simulations based on Ansys Rocky 2024 R1.
 
 ---
 
@@ -73,9 +73,9 @@ The following particle and interaction parameters were varied:
 The simulation outputs used for comparison and calibration include:
 
 1. Average particle mass flow from the ram feeder section  
-2. Average maximum force per cycle  
-3. Average minimum force per cycle  
-4. Total mechanical work per cycle
+2. Average maximum force per cycle from the rams
+3. Average minimum force per cycle from the rams 
+4. Total mechanical work per cycle from the rams 
 
 The simulation setup consider ten ram cycles, and due to initialization issues, the last seven cycles are considered for analysis.
    
