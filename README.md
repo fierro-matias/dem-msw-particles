@@ -123,7 +123,8 @@ See the `LICENSE` file for full details.
 
 ## Citation
 
-If you use this repository in academic or technical work, please cite the corresponding Zenodo record (DOI provided upon release).
+If you use this repository in academic or technical work, please cite the corresponding Zenodo record:  
+[https://doi.org/10.5281/zenodo.18056025](https://doi.org/10.5281/zenodo.18056025)
 
 ---
 
