@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "Please cite it as below."
+authors:
+- family-names: Fierro Rivas
+  given-names: Matías Alonso
+orcid: https://orcid.org/0000-0003-2373-1597
+title: fierro-matias/dem-msw-particles: Initial public release
+version: v1.0.0
+date-released: 2025-12-25
