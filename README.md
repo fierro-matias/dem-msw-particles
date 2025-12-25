@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18056025.svg)](https://doi.org/10.5281/zenodo.18056025)
+
 # dem-msw-particles
 
 This repository supports modeling and calibration of municipal solid waste (MSW) particles for Discrete Element Method (DEM) simulations, with focus on particles properties and model parameters.
