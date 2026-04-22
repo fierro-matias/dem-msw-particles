@@ -15,7 +15,7 @@ Calibration datasets for varying particle and model properties, together with cu
   - Transient particle mass and volume scaling
 - Calibration data (CSV file)
   - Output of a large-scale DEM calibration campaign
-  - Parameter mapping results for MSW particle 
+  - Parameter mapping results for MSW particle
 
 ---
 
