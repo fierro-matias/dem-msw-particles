@@ -1,9 +1,12 @@
-cff-version: 1.0.0
-message: "Please cite it as below."
+cff-version: 1.2.0
+title: "Calibration datasets and custom DEM modules for modeling Municipal Solid Waste particles"
+message: "If you use this software, please cite it as below."
+type: software
 authors:
 - family-names: Fierro Rivas
-  given-names: Matías Alonso
+  given-names: Matias Alonso
 orcid: https://orcid.org/0000-0003-2373-1597
-title: fierro-matias/dem-msw-particles: Initial public release
-version: v1.0.0
-date-released: 2025-12-25
+version: v1.1.0
+date-released: 2026-04-24
+
+license: Apache-2.0
