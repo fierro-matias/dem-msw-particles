@@ -1,0 +1,5 @@
+This project was developed by Matías Fierro as part of doctoral research.
+
+It includes CUDA, Python, and plugin-based implementations for DEM modeling of MSW particles.
+
+No Ansys or Rocky proprietary code is included.
