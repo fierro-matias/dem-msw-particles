@@ -4,7 +4,7 @@
 
 This repository supports modeling and calibration of municipal solid waste (MSW) particles for Discrete Element Method (DEM) simulations, with focus on particles properties and model parameters.
 
-Calibration datasets for varying particle and model properties, together with custom user-defined modules for DEM simulations based on Ansys Rocky 2024 R1.
+Calibration datasets for varying particle and model properties, together with custom user-defined modules for DEM simulations developed for use with Ansys Rocky 2024 R1.
 
 ---
 
@@ -115,7 +115,7 @@ Legend description, dimensions in square brackets
 ## License
 
 - Source code: Apache License 2.0
-- Data (CSV calibration dataset): Creative Commons Attribution 4.0 (CC-BY 4.0)
+- Data (in `/data`): Creative Commons Attribution 4.0 (CC-BY 4.0)
 
 See the `LICENSE` and `DATA_LICENSE` file for full details.
 
