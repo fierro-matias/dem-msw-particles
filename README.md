@@ -114,10 +114,10 @@ Legend description, dimensions in square brackets
 
 ## License
 
-- Code (modules, scripts, build files): MIT License
+- Source code: Apache License 2.0
 - Data (CSV calibration dataset): Creative Commons Attribution 4.0 (CC-BY 4.0)
 
-See the `LICENSE` file for full details.
+See the `LICENSE` and `DATA_LICENSE` file for full details.
 
 ---
 
